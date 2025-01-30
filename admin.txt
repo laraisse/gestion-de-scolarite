@@ -1,0 +1,3 @@
+admin@centrale-casablanca.ma admin123 hamza
+admin2@centrale-casablanca.ma admin2123 laraisse
+1 2 test
